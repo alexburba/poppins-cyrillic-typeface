@@ -11,6 +11,7 @@ Poppins Cyrillic is a cyrillic fork of the [Poppins](https://github.com/itfoundr
 - **In Russian:** Poppins Cyrillic — это кириллическая версия шрифта [Poppins](https://github.com/itfoundry/poppins). Poppins — это современный теплый геометрический гротеск. Пока только русская кириллица. Потом добавлю BY, UA и сербскую кириллицу.
 
 # Examples
+![image](https://github.com/user-attachments/assets/a2e3a488-4cc5-48c7-9677-3cd09cd8a82c)
 ![image](https://github.com/user-attachments/assets/49b0431c-171b-48ee-a6ee-4544ec4743c1)
 ![image](https://github.com/user-attachments/assets/2d3c3454-0109-4c21-be87-a37a2aacec9f)
 
