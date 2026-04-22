@@ -21,5 +21,5 @@ Poppins Cyrillic is a cyrillic fork of the [Poppins](https://github.com/itfoundr
 
 <img src="https://github.com/user-attachments/assets/d446297a-ec46-4446-9f21-07f4ad5ed916" />
 
-
-
+# More examples
+More examples and font pairings at [burba.pro/poppins-cyrillic/](http://burba.pro/poppins-cyrillic/)
