@@ -2,7 +2,8 @@
 # Poppins Cyrillic
 Poppins Cyrillic is a cyrillic fork of the [Poppins](https://github.com/itfoundry/poppins) typeface
 
-![image](https://github.com/user-attachments/assets/a52fb79a-f678-4b91-a53e-388e47b66283)
+<img width="2624" height="1466" alt="Screenshot 2026-10-25 at 13 40 20" src="https://github.com/user-attachments/assets/fa97f9fb-0125-4bb7-b8dc-5eb37b58b006" />
+
 
 - **Status:** work in progress
 - **Languages:** ✅(Russian, Belorussian, Ukrainian, Serbian regular-only) ⏳(SR,BG)
